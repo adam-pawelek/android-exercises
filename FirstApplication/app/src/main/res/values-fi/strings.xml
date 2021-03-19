@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ensimmäinen sovellus</string>
+    <string name="button_clicked_txt">Napin painallus!</string>
+    <string name="button_txt">Napsauta minua!</string>
+    <string name="portrait_txt">a</string>
+    <string name="landscape_txt">a</string>
+</resources>

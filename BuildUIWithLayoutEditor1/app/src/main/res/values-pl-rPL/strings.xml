@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BuildUIWithLayoutEditor1</string>
+    <string name="Text2">Lewy Górny</string>
+    <string name="Text5">Prawy Dolny</string>
+    <string name="Text3">Prawy Górny</string>
+    <string name="Text4">Lewy Dolny</string>
+    <string name="Text">Hello Android</string>
+</resources>
